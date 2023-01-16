@@ -10,4 +10,8 @@ commit 1 on branch ex-branch1
 >>>>>>> 8c90241 (commit 1 on branch ex-branch1)
 =======
 commit 2 on branch ex-branch1
+<<<<<<< HEAD
 >>>>>>> de3453f (commit 2 on branch ex-branch1)
+=======
+commit 3 on branch ex-branch1
+>>>>>>> 6a146d4 (commit 3 on branch ex-branch1)
